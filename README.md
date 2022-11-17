@@ -49,11 +49,13 @@ docker-compose up -d
 ```
 ## Docker Images Used (Official & Verified)
 
-[**Telegraf**](https://hub.docker.com/_/telegraf) / `1.19`
+Latest as of the time of testing.
 
-[**InfluxDB**](https://hub.docker.com/_/influxdb) / `2.1.1`
+[**Telegraf**](https://hub.docker.com/_/telegraf) / `1.24.3`
 
-[**Grafana-OSS**](https://hub.docker.com/r/grafana/grafana-oss) / `8.4.3`
+[**InfluxDB**](https://hub.docker.com/_/influxdb) / `2.5.1`
+
+[**Grafana-OSS**](https://hub.docker.com/r/grafana/grafana-oss) / `9.3`
 
 
 
